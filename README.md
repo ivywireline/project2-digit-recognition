@@ -7,7 +7,7 @@ https://www.teach.cs.toronto.edu/~csc411h/winter/projects/proj2/
 
 
 # Implementation
-Check out the following files: faces.py, digits.py, deepfaces,py
+Check out the following files: [faces.py](https://github.com/ivywireline/project2-digit-recognition/blob/master/faces.py), [digits.py](https://github.com/ivywireline/project2-digit-recognition/blob/master/digits.py), [deepfaces.py](https://github.com/ivywireline/project2-digit-recognition/blob/master/deepfaces.py)
 
 # Report
 Detailed report on what the code is doing is in this file [deepnn.pdf](https://github.com/ivywireline/project2-digit-recognition/blob/master/deepnn.pdf).
