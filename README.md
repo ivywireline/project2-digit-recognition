@@ -10,4 +10,4 @@ https://www.teach.cs.toronto.edu/~csc411h/winter/projects/proj2/
 Check out the following files: faces.py, digits.py, deepfaces,py
 
 # Report
-Detailed report on what the code is doing is in this file `deepnn.pdf`.
+Detailed report on what the code is doing is in this file [deepnn.pdf](https://github.com/ivywireline/project2-digit-recognition/blob/master/deepnn.pdf).
